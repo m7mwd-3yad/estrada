@@ -38,10 +38,7 @@ CREATE TABLE `admins` (
 -- Dumping data for table `admins`
 --
 
-INSERT INTO `admins` (`id`, `name`, `password`, `email`) VALUES
-(12, 'toma', '40bd001563085fc35165329ea1ff5c5ecbdbbeef', 'mohamed@elhossiny.net'),
-(13, 'elhossiny', '0ec09ef9836da03f1add21e3ef607627e687e790', 'fady@gmail.com'),
-(14, 'mahmoud', '$2y$10$TqcCIrYeR9sb.rGkYY12A.Hr/CJhDB.o.oTLOizH8XY1A6z1Y4Swi', 'noura@gmail.com');
+
 
 -- --------------------------------------------------------
 
